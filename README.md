@@ -13,10 +13,10 @@ along with the GUI that enables the user to clearly visualize the key-components
 the data, in a clear and precise manner.
 
 ## Tools Used
- Tkinter for GUI (Frontend)
- SQLite3 for database(backend)
- MatPlotLib for plotting Graphs
- Python 3.7
+- Tkinter for GUI (Frontend)
+- SQLite3 for database(backend)
+- MatPlotLib for plotting Graphs
+- Python 3.7
 
 ## Functionalities
 The project involves implementation of basic functionalities such as insert, update ,
