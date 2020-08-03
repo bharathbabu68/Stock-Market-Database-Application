@@ -64,7 +64,7 @@ We can also search using any of the other characteristics of a stock. Once you h
 
 Use clear all button, to clear all entries in the entry boxes.
 
-3) Graphs to analyze data
+## **Graphs to analyze data**
 
 Graphs have also been implemented to analyze the data in the stocks database. By conducting an analysis of the data between the various companies, we can determine which stock we want to buy, in this program we have implemented 3 graphs: company vs share price, share price vs market cap, and percent change vs the stock price.
 
@@ -77,17 +77,10 @@ They have been implemented using the matplotlib package, and the required type o
 
 2 ) Percent change vs Stock Index Price
 
-
-**Conclusions:**
-
 - We make use of a scatter graph to percent change and stock price because we are trying to use the correlation between a company&#39;s stock price change and its stock price to visualize the data.
 - Graph is updated whenever a new value is inserted, updated or deleted via a trigger that links the graph&#39;s function with the database.
 
 3 ) Company vs Share Price
-
-
-
-**Conclusions:**
 
 - We make use of a bar graph to compare the company name, and the share price, so that we can visualize the earnings of the company
 - X axis contains the company names, and y axes denotes the share prices of the company.
