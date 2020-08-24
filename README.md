@@ -12,6 +12,8 @@ make modifications in the share details, and also graphs have been implemented
 along with the GUI that enables the user to clearly visualize the key-components of
 the data, in a clear and precise manner.
 
+![alt text](https://github.com/bharathbabu68/Stock-Market-Database-Application/blob/master/Picture1.png)
+
 ## Tools Used
 - Tkinter for GUI (Frontend)
 - SQLite3 for database(backend)
@@ -64,6 +66,8 @@ We can also search using any of the other characteristics of a stock. Once you h
 
 Use clear all button, to clear all entries in the entry boxes.
 
+![alt text](https://github.com/bharathbabu68/Stock-Market-Database-Application/blob/master/Picture2.png)
+
 ## **Graphs to analyze data**
 
 Graphs have also been implemented to analyze the data in the stocks database. By conducting an analysis of the data between the various companies, we can determine which stock we want to buy, in this program we have implemented 3 graphs: company vs share price, share price vs market cap, and percent change vs the stock price.
@@ -109,6 +113,8 @@ Backend: ltbackend.py
 ## **Buy Stocks Window**
 
 The buy stocks window is opened upon pressing the &#39;buy stocks&#39; button. The buy stocks window allows the user to purchase stocks onto his user account. He can then view his stocks by clicking the &#39;view cart&#39; button.
+
+![alt text](https://github.com/bharathbabu68/Stock-Market-Database-Application/blob/master/Picture3.png)
 
 **Output Screenshot:**
 
